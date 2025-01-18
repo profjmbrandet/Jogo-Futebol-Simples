@@ -1,0 +1,14 @@
+a) Como Executar:
+Cole o código em um arquivo .html.
+Abra o arquivo no navegador.
+b) Controles:
+- Jogador 1 (Azul):
+W: Sobe.
+S: Desce.
+A: Esquerda.
+D: Direita.
+- Jogador 2 (Vermelho):
+↑: Sobe.
+↓: Desce.
+←: Esquerda.
+→: Direita.
